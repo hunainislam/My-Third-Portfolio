@@ -586,7 +586,7 @@ span {
   }
 }
 
-/* @media (max-width: 991px) {
+ @media (max-width: 991px) {
 
     .navbar a:nth-child(1),
     .navbar a:nth-child(2) {
@@ -626,7 +626,7 @@ span {
     .footer {
         padding: 2rem 3%;
     }
-} */
+} 
 
 @media (max-width: 768px) {
   #menu-icon {
@@ -799,7 +799,7 @@ span {
   }
 }
 
-@media (max-width: 450px) {
+/* @media (max-width: 450px) {
   html {
     font-size: 50%;
   }
@@ -840,9 +840,9 @@ span {
   .contact from .input-box input {
     width: 100%;
   }
-}
+} */
 
-@media (max-width: 360px) {
+/* @media (max-width: 360px) {
   .about-img img {
     width: 90vh;
   }
@@ -869,4 +869,4 @@ span {
     text-align: center;
     margin-top: 2rem;
   }
-}
+} */
