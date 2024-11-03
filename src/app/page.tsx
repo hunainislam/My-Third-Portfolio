@@ -4,7 +4,6 @@ import Footer from "@/component/Footer";
 import Header from "@/component/Header";
 import Hero from "@/component/Hero";
 import Projects from "@/component/Projects";
-import ScrollReveal from "@/component/ScrollReveal";
 import Services from "@/component/Services";
 import Script from "next/script";
 
