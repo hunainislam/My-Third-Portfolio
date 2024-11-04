@@ -1,18 +1,8 @@
-"use client";
-
-import { RevealWrapper } from "next-reveal";
 import React from "react";
 
 export default function Contact() {
   return (
     <div>
-      <RevealWrapper
-        origin="right"
-        reset={true}
-        distance="80px"
-        duration={2000}
-        delay={200}
-      >
         <section className="contact" id="contact">
           <h2 className="heading">
             Contact <span>Me!</span>
@@ -43,7 +33,6 @@ export default function Contact() {
             <input type="submit" value="Send Message" className="btn" />
           </form>
         </section>
-      </RevealWrapper>
     </div>
   );
 }
